@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+# heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline: Notes for Kodemia JS 21
 ---
 
@@ -10,4 +10,4 @@ Made by [Daniel Cruz](https://www.linkedin.com/in/daniel-cruz-0a29a450/) with ‚ù
 
 ## Temas
 
-- [Bootstrap intro](/bootstrap-intro/)
+- [Bootstrap intro](/bootstrap-intro/que-es-un-framework)

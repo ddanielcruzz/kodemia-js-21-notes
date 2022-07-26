@@ -36,10 +36,10 @@ module.exports = {
     editLinkText: "",
     lastUpdated: false,
     nav: [
-      {
-        text: "Config",
-        link: "/config/",
-      },
+      // {
+      //   text: "Config",
+      //   link: "/config/",
+      // },
     ],
     sidebar: {
       "/bootstrap-intro/": [
